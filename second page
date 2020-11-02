@@ -1,0 +1,56 @@
+html>
+<body>
+ <ul>
+
+    <li><a href=index.html> Home </a></li>
+    <li> <a href="apps.html"> Apps </a></li>
+    <li> <a href="games.html"> Game </a></li>
+    
+  </ul> 
+ 
+ <br>
+ <br>
+ 
+ <div class="game">
+   
+   <iframe src="https://scratch.mit.edu/projects/428305981/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+ 
+ </div>
+ </body>
+ 
+ <style>
+  
+body{
+ margin: 0;
+ top: 0;
+ background-color: Blue;
+ text-align: center;
+}
+
+ul{
+ list-style-type: none;
+ background-color: Blue;
+ width: 100%;
+ top: 0;
+ Left: 0;
+ text-align: center;
+ padding: 5px;
+ font-family: 'Caveat', cursive;
+ font-size: 30px;
+ margin: 0;
+}
+
+li{
+ padding: 60px 100px;
+ display: inline;
+}                
+
+li a:hover {
+ background-color: #ff9999;
+}
+
+
+
+  
+ </style>
+ </html>
