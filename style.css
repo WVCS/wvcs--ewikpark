@@ -1,0 +1,57 @@
+<body>
+
+<div class="goat">
+  <p> Hello all </p>
+</div>
+/* NAV BAR STYLE */
+  
+  <div class="stuck">
+    <p> ABSOLUTE POSITION </p>
+    <center>
+      <img src="https://img.brickowl.com/files/image_cache/larger/lego-man-with-blue-shirt-minifigure-25.jpg" height="200px"
+  </div>
+
+<p class="goat"> Outside the div </p>
+  <p> Davy Jones' Locker Yellow Jack jolly boat lanyard Arr me pink broadside aye hornswaggle. Long boat man-of-war gangplank walk the plank gaff pillage coxswain stern Davy Jones' Locker booty. Carouser wherry Blimey bowsprit jib Jack Tar long boat fore Jack Ketch spirits.
+
+Rigging execution dock gabion lateen sail log jury mast bilge water hearties hail-shot take a caulk. Furl bilge water lanyard quarterdeck scallywag mizzen reef sails scuppers hempen halter port. Deadlights haul wind Plate Fleet heave to yo-ho-ho nipper fluke Spanish Main strike colors Barbary Coast.Buccaneer quarter cackle fruit scuttle wench schooner fire ship gally knave barkadeer. Tack interloper piracy code of conduct quarterdeck grog Barbary Coast Plate Fleet holystone hogshead. Gunwalls gally spyglass ahoy chase guns smartly splice the main brace red ensign capstan six pounders.
+
+
+</body>
+
+.stuck{
+  background-color: gold;
+  position: absolute;
+  border: 3px solid black;
+  right: 10%;
+}
+
+div.sticky{
+  color: gold; 
+  background-color: blue
+   l
+    position: stickyl
+    top: 0;
+  border: 5px dashed;
+  text-align: center;
+  z-index: 1;
+  width: 300px;
+  left: 10%;
+    
+}
+
+div.goat {
+  color: blue;
+  background-color: salmon;
+  position: sticky;
+  border: 5px dashed;
+  text-align: center;
+  z-index: 1;'
+  width: 500px
+    left: 25%;
+}
+
+.goat {
+  color: blue;
+  
+}
